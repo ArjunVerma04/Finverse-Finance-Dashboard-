@@ -1,7 +1,7 @@
 # Finverse – Finance Dashboard 💰
 
 <p align="center">
-  <img src="./public/finverse.png" alt="Finverse Logo" width="150"/>
+  <img src="./public/finVerse.svg" alt="Finverse Logo" width="150"/>
 </p>
 
 **Track. Analyze. Optimize.**
