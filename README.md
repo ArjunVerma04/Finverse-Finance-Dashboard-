@@ -7,7 +7,7 @@
 **Track. Analyze. Optimize.**
 Finverse is a modern, interactive, responsive finance dashboard built with **React, Tailwind CSS & Recharts**, designed to help users **visualize their financial health at a glance**.
 
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Watch%20Demo-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://your-demo-link.com)
+https://finverse-finance-dashboard.onrender.com
 
 ---
 
